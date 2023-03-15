@@ -6,7 +6,9 @@ namespace ConsoleApp26
 {
     class newClass
     {
-        void ispis() {
+        void IspisIvo()
+        {
+            // novi ispis
         }
     }
 }
